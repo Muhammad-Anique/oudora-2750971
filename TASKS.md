@@ -4,7 +4,7 @@ Oudora — Task List
 
 **Tasks:**
 1. [x] Project init: `package.json` (next, react, react-dom, typescript, tailwindcss, @supabase/supabase-js), `next.config.ts`, `tsconfig.json`, `.gitignore` | Commit: `chore: initialize Next.js project`
-2. [ ] Tailwind config: `tailwind.config.ts`, `postcss.config.js` (minimalist premium aesthetic) | Commit: `chore: add Tailwind CSS config`
+2. [x] Tailwind config: `tailwind.config.ts`, `postcss.config.js` (minimalist premium aesthetic) | Commit: `chore: add Tailwind CSS config`
 3. [ ] Supabase setup: `lib/supabaseClient.ts`, `.env.example` (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`) | Commit: `chore: set up supabase client`
 4. [ ] Root layout: `app/layout.tsx` (premium typography, metadata), `app/globals.css` (Tailwind directives, luxury neutral color variables) | Commit: `feat: add root layout`
 5. [ ] Shared components: `components/Navbar.tsx`, `components/Footer.tsx`, `components/WhatsAppCTA.tsx` (WhatsApp: `https://wa.me/923204589040`) | Commit: `feat: add navigation and CTA components`
