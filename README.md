@@ -1,2 +1,3 @@
-# oudora-2750971
-Oudora
+# Oudora
+
+Oudora project repository.
